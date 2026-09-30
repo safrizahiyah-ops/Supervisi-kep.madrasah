@@ -1,0 +1,6 @@
+{
+  "name": "SupervisiKu – Toolkit Supervisi Kepala Madrasah",
+  "description": "Aplikasi digital Buku Manual Pegangan Kepala Madrasah dalam Menyukseskan Supervisi Guru dengan 6 tahap dan 15 instrumen terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
